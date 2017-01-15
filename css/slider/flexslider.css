@@ -1,0 +1,151 @@
+.flex-container a:active, .flexslider a:active, .flex-container a:focus, .flexslider a:focus {
+    outline: medium none;
+}
+.slides, .flex-control-nav, .flex-direction-nav {
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+}
+.flexslider {
+    margin: 0;
+    padding: 0;
+}
+.flexslider .slides > li {
+    display: none;
+}
+.flexslider .slides img {
+    display: block;
+    max-width: 100%;
+}
+.flex-pauseplay span {
+    text-transform: capitalize;
+}
+.slides:after {
+    clear: both;
+    content: ".";
+    display: block;
+    height: 0;
+    line-height: 0;
+    visibility: hidden;
+}
+html[xmlns] .slides {
+    display: block;
+}
+* html .slides {
+    height: 1%;
+}
+.no-js .slides > li:first-child {
+    display: block;
+}
+.flexslider {
+    position: relative;
+}
+.flexslider .slides {
+}
+.flexslider .slides > li {
+    position: relative;
+}
+.flex-container {
+    position: relative;
+}
+.flex-caption {
+}
+.flex-caption {
+    background: none repeat scroll 0 0 #222222;
+    border-radius: 2px 2px 2px 2px;
+    bottom: 15px;
+    color: #999999;
+    left: 83px;
+    margin-bottom: 0;
+    max-width: 70%;
+    padding: 8px 20px;
+    position: absolute;
+    z-index: 500;
+}
+.flex-direction-nav {
+    height: 0;
+}
+.flex-direction-nav li a {
+    -moz-transition-duration: 0s;
+    background: url("sprite.png") no-repeat scroll 0 0 #222222;
+    border-radius: 2px 2px 2px 2px;
+    bottom: 15px;
+    height: 33px;
+    position: absolute;
+    text-indent: -999em;
+    width: 33px;
+}
+.flex-direction-nav li .prev {
+    background-position: 14px -129px;
+    left: 15px;
+}
+.flex-direction-nav li .prev:hover {
+    background-color: #FFFFFF;
+    background-position: -17px -129px;
+}
+.flex-direction-nav li .next {
+    background-position: -48px -129px;
+    left: 49px;
+}
+.flex-direction-nav li .next:hover {
+    background-color: #FFFFFF;
+    background-position: -79px -129px;
+}
+.flex-direction-nav li .disabled {
+    cursor: default;
+    opacity: 0.3;
+}
+.flex-control-nav {
+    left: 14px;
+    position: absolute;
+    top: 15px;
+    width: 100%;
+}
+.flex-control-nav li {
+    display: inline-block;
+    margin: 0 0 0 5px;
+}
+.flex-control-nav li:first-child {
+    margin: 0;
+}
+.flex-control-nav li a {
+    -moz-transition-duration: 0s;
+    background: url("sprite.png") no-repeat scroll -124px -141px transparent;
+    cursor: pointer;
+    display: block;
+    height: 9px;
+    text-indent: -999em;
+    width: 9px;
+}
+.flex-control-nav li a:hover {
+    background-position: -144px -141px;
+}
+.flex-control-nav li a.active {
+    background-position: -144px -141px;
+    cursor: default;
+}
+.slideshow-container {
+    float: left;
+    width: 960px;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #EEEEEE;
+}
+.slideshow-container .section-title {
+    float: left;
+    overflow: hidden;
+    padding: 8px;
+    padding-top: 12px;
+    padding-bottom: 15px;
+    width: 290px;
+    background-color: white;
+}
+#index-slider {
+    float: left;
+    width: 650px;
+}
+.flex-caption, .pagination {
+    display: none;
+}
+.flex-caption, .pagination {
+    display: none;
+}

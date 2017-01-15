@@ -1,0 +1,133 @@
+
+@CHARSET "ISO-8859-1";
+
+input[type="text"],
+input[type="password"],
+.input-small,
+.select-classic,
+.classic	 {
+    border: 1px solid #CCCCCC;
+    border-radius: 8px 8px 8px 8px;
+    color: #99ccff;
+    display: inline;
+    font-size: 28px;
+    height: 35px;
+    width: 760px;
+    padding: 6px;
+}
+.select-classic {
+	height: 48px;	
+	width: 352px;
+	margin-bottom: 5px;
+}
+.input-small {
+    height: 30px !important;
+    width: 300px !important;
+}
+.input-file {
+	width: 100px !important;
+	border: 1px solid #CCCCCC;	
+}
+.classic {
+    width: 340px !important;
+    margin-bottom: 5px !important;
+    padding: 6px !important;
+}
+
+input[type="submit"] {
+    background-color: #F5F5F5;
+    border: 1px solid #CCCCCC;
+    border-radius: 6px 6px 6px 6px;
+    cursor: pointer;
+    height: 50px;
+    width: 150px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'BebasNeueRegular','Helvetica Neue',Arial,'Liberation Sans',FreeSans,sans-serif;
+    color: #777777;
+    float: right;
+}
+input[type="submit"]:HOVER {
+	background-color: #F0F0F0;	
+}
+
+.form {
+	width: 586px;
+	background-color: white;
+    border: 8px solid #F5F5F5;
+    margin-bottom: 10px;
+    margin-left: 100px;
+    margin-top: 30px;
+    overflow: hidden;
+}
+.form .inner {
+	border: 1px solid #CCCCCC;
+	padding: 20px;
+	padding-bottom: 10px;
+	overflow: hidden;	
+}
+
+.form label {
+	font-size: 22px;
+	width: 190px;
+	float: left;
+	padding-top: 15px;
+	margin-bottom: 3px;
+}
+
+.form .forgot {
+	float:left;
+	padding-top:10px; 
+	padding-left: 10px;
+	text-align:right;	
+}
+.form .forgot:HOVER {
+	font-weight: bold;	
+}
+
+.input-search {
+	background: url("../images/icon-search.png") no-repeat scroll 14px center #FFFFFF;
+	background-position: 480px;
+	color: #7D7D7D;
+}
+.searchButtonHidden {
+	position: absolute;
+	top: 1px; 
+	left: 470px;
+	width: 40px;
+	height: 40px;
+	cursor: pointer;
+}
+
+.preview-thumb {
+    background: none repeat scroll 0 0 #F0F0F0;
+    border: 3px solid #999999;
+    float: left;
+    height: 100px;
+    left: -320px;
+    margin-left: 320px;
+    padding: 4px;
+    position: absolute;
+    top: 70px;
+    width: 120px;
+    overflow: hidden;
+}
+.preview-file {
+	float: left;	
+}
+
+#perfilForm input[type="text"] {
+	width: 120px;
+	height: 20px;
+	font-size: 16px;
+}
+#perfilForm .select-classic {
+	width: 250px;
+	height: 35px;
+	font-size: 16px;
+}
+#perfilForm label {
+	font-size: 18px;
+	padding-top: 8px;
+	width: 180px;
+}

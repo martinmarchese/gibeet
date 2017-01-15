@@ -1,0 +1,641 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins
+END
+mail_com.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/mail_com.plg.php
+END
+katamail.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/katamail.plg.php
+END
+aol.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/aol.plg.php
+END
+linkedin.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/linkedin.plg.php
+END
+famiva.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/famiva.plg.php
+END
+hotmail.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/hotmail.plg.php
+END
+mevio.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/mevio.plg.php
+END
+meta.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/meta.plg.php
+END
+inbox.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/inbox.plg.php
+END
+skyrock.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/skyrock.plg.php
+END
+netlog.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/netlog.plg.php
+END
+orkut.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/orkut.plg.php
+END
+msn.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/msn.plg.php
+END
+operamail.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/operamail.plg.php
+END
+atlas.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/atlas.plg.php
+END
+bookcrossing.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/bookcrossing.plg.php
+END
+terra.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/terra.plg.php
+END
+bigstring.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/bigstring.plg.php
+END
+pochta.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/pochta.plg.php
+END
+fastmail.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/fastmail.plg.php
+END
+zapak.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/zapak.plg.php
+END
+inet.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/inet.plg.php
+END
+rambler.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/rambler.plg.php
+END
+flingr.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/flingr.plg.php
+END
+mail2world.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/mail2world.plg.php
+END
+brazencareerist.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/brazencareerist.plg.php
+END
+mycatspace.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/mycatspace.plg.php
+END
+plaxo.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/plaxo.plg.php
+END
+gmail.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/gmail.plg.php
+END
+freemail.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/freemail.plg.php
+END
+o2.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/o2.plg.php
+END
+plazes.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/plazes.plg.php
+END
+youtube.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/youtube.plg.php
+END
+multiply.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/multiply.plg.php
+END
+badoo.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/badoo.plg.php
+END
+canoe.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/canoe.plg.php
+END
+azet.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/azet.plg.php
+END
+apropo.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/apropo.plg.php
+END
+mail_in.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/mail_in.plg.php
+END
+clevergo.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/clevergo.plg.php
+END
+gmx_net.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/gmx_net.plg.php
+END
+doramail.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/doramail.plg.php
+END
+virgilio.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/virgilio.plg.php
+END
+_base.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/_base.php
+END
+wpl.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/wpl.plg.php
+END
+ning.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/ning.plg.php
+END
+faces.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/faces.plg.php
+END
+india.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/india.plg.php
+END
+lovento.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/lovento.plg.php
+END
+netaddress.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/netaddress.plg.php
+END
+rediff.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/rediff.plg.php
+END
+vkontakte.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/vkontakte.plg.php
+END
+fdcareer.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/fdcareer.plg.php
+END
+friendfeed.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/friendfeed.plg.php
+END
+libero.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/libero.plg.php
+END
+gawab.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/gawab.plg.php
+END
+koolro.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/koolro.plg.php
+END
+xanga.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/xanga.plg.php
+END
+yahoo.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/yahoo.plg.php
+END
+care2.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/care2.plg.php
+END
+konnects.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/konnects.plg.php
+END
+meinvz.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/meinvz.plg.php
+END
+flixster.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/flixster.plg.php
+END
+vimeo.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/vimeo.plg.php
+END
+facebook.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/facebook.plg.php
+END
+techemail.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/techemail.plg.php
+END
+flickr.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/flickr.plg.php
+END
+graffiti.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/graffiti.plg.php
+END
+evite.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/evite.plg.php
+END
+livejournal.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/livejournal.plg.php
+END
+mail_ru.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/mail_ru.plg.php
+END
+web_de.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/web_de.plg.php
+END
+sapo.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/sapo.plg.php
+END
+xuqa.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/xuqa.plg.php
+END
+fm5.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/fm5.plg.php
+END
+bebo.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/bebo.plg.php
+END
+hi5.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/hi5.plg.php
+END
+walla.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/walla.plg.php
+END
+motortopia.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/motortopia.plg.php
+END
+hushmail.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/hushmail.plg.php
+END
+lycos.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/lycos.plg.php
+END
+myspace.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/myspace.plg.php
+END
+popstarmail.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/popstarmail.plg.php
+END
+cyworld.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/cyworld.plg.php
+END
+uk2.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/uk2.plg.php
+END
+lastfm.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/lastfm.plg.php
+END
+bordermail.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/bordermail.plg.php
+END
+_hosted.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/_hosted.plg.php
+END
+aussiemail.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/aussiemail.plg.php
+END
+xing.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/xing.plg.php
+END
+perfspot.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/perfspot.plg.php
+END
+friendster.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/friendster.plg.php
+END
+nz11.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/nz11.plg.php
+END
+tagged.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/tagged.plg.php
+END
+kids.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/kids.plg.php
+END
+kincafe.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/kincafe.plg.php
+END
+eons.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/eons.plg.php
+END
+indiatimes.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/indiatimes.plg.php
+END
+mynet.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/mynet.plg.php
+END
+yandex.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/yandex.plg.php
+END
+plurk.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/plurk.plg.php
+END
+hyves.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/hyves.plg.php
+END
+twitter.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/twitter.plg.php
+END
+interia.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/interia.plg.php
+END
+abv.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/abv.plg.php
+END
+mydogspace.plg.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gibeet-svn/!svn/ver/3/trunk/new/library/OpenInviter/plugins/mydogspace.plg.php
+END
